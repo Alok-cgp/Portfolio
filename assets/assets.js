@@ -97,6 +97,7 @@ export const workData = [
         title: 'Portfolio Website',
         description: 'UI/UX Design',
         bgImage: '/work-4.jpg',
+        link: 'https://portfolio-orcin-pi-6q6i2bgsx7.vercel.app/'
     },
 ]
 
